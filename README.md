@@ -6,6 +6,7 @@ Linear Algebra note
   ~~求求了~~
 * 练习Markdown才是目的  
   ~~因为好玩~~
+* 其他笔记在[这里](https://github.com/handsomezhuzhu/other_note)
   
 ![666](https://github.com/handsomezhuzhu/sysu_matrix_homework/blob/main/other/666.jpg)
 
