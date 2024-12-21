@@ -12,8 +12,6 @@ Linear Algebra note
 
 
 
-# [项目名称]
-
 ## 版权声明
 **Copyright © 2024 Simon**
 
