@@ -2,6 +2,7 @@
 Linear Algebra note
 # 啦啦啦
 * 没事的随便写写
+* 如果你是在Gitee上查看这个仓库，请移步至https://github.com/handsomezhuzhu加入我们的开源项目，因为Gitee会被无情覆盖掉。
 * 会写的朋友，和懂线代的大佬可以补充一点  
   ~~求求了~~
 * 练习Markdown才是目的  
